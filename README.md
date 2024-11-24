@@ -86,7 +86,7 @@ This project is licensed under the [MIT License](LICENSE).
 For questions, suggestions, or support, feel free to reach out:
 
 - **Author**: Ganesh Divekar
-- **Email**: [ganesh.divekar@example.com](mailto:ganesh.divekar@example.com)
+- **Email**: [ganesh.divekar@example.com](mailto:ganeshajdivekar@gmail.com)
 - **GitHub**: [github.com/ganeshdivekar](https://github.com/ganeshdivekar)
 - **Twitter**: [@GaneshDivekar](https://twitter.com/GaneshDivekar)
 
