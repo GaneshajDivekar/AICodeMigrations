@@ -6,7 +6,7 @@ Here’s an updated **README.md** for your project with the name **AICodeMigrati
 
 **AICodeMigrations** is an AI-powered web application that helps developers migrate and translate code seamlessly between different programming languages. It simplifies cross-language development and boosts productivity by eliminating manual conversion efforts.
 
-![AICodeMigrations Screenshot](./public/screenshot.png)
+
 
 ---
 
